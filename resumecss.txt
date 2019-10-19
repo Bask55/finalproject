@@ -1,0 +1,123 @@
+body {
+  overflow: auto;
+  background-color:white;
+  
+}
+header {
+  background-color: white;
+  width:100%;
+  border-radius: 20px;
+  border-color: #e6e6e6;
+  border-width:2px;
+  border-style:solid;
+  overflow: auto;
+  
+}
+
+h1 {
+  font-size:3vw;
+  color: red;
+}
+h2 {
+  font-size:2vw;
+  background-color:#FF0000;
+  color:white;
+  
+}
+h3{
+  font-size:2vw;
+  color:white;
+  background-color:#FF0000;
+}
+h4{
+  font-size:2vw;
+  background-color:#FF0000;
+  color:white;
+}
+
+aside {
+  float:right;
+  max-width:20%;
+  background-color:#f1f1f1;
+  border-color: #e6e6e6;
+  border-width:2px;
+  border-style:solid;
+  border-radius: 20px;
+  height:100%;
+  font-size:1.5vw;
+  
+}
+
+hr.new1 {
+  border: 5px solid red;
+}
+
+.image1 {
+  margin-left: 80%;
+  max-width:100%;
+  height: auto;
+  overflow: auto;
+}
+.image2{
+  width:3%;
+  max-width:100%;
+  height: auto;
+  overflow: auto;
+  height: auto;
+  overflow: auto;
+}
+article {
+  float: left;
+  padding: 20px;
+  width: 76%;
+  background-color: #f1f1f1;
+  height: 100%; 
+  border-color: #e6e6e6;
+  border-width:2px;
+  border-style:solid;
+  border-radius: 20px;
+  text-align: center;
+}
+row {
+  content: "";
+  display: table;
+  clear: both;
+  
+}
+
+column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; 
+  width: 100%;
+  
+}
+p1{
+  font-size:1.5vw;
+  
+}
+p2{
+  font-size:1.5vw;
+  
+  }
+
+* {
+  box-sizing: border-box;
+}
+.illustrator {width: 30%; background-color: #4CAF50;}
+.photoshop {width: 50%; background-color: #2196F3;}
+.microsoftexcel {width: 30%; background-color: #f44336;}
+.coding {width: 1%; background-color: #808080;}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   max-width:100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+   font-size:1.5vw;
+}
