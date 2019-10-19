@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voravoot's Resume</title>
+  </head>
+  <body>
+    <section id='main'>
+      
+      <header>
+        <h1>
+        Resume <br>
+          <p3> Voravoot Tirajharuannan (BUZZ)</p3> 
+        </h1>
+     <a href=<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voravoot's Resume</title>
+  </head>
+  <body>
+    <section id='main'>
+      
+      <header>
+        <h1>
+        Resume <br>
+          <div id="firstDiv"><p3> Voravoot Tirajharuannan (BUZZ)</p3></div> 
+        </h1>
+        
+        <input type="text" id="myText" value="" placeholder="Typehere yo change name">
+        <button onclick="myFunction()">Change</button>
+        
+     <a href="https://ibb.co/Gkgg6Y3"><img  src="https://i.ibb.co/Gkgg6Y3/55798165-10156054444185373-8390223624962834432-n.jpg" alt="55798165-10156054444185373-8390223624962834432-n" class="image1" border="0" ></a>
+      <hr class="new1">
+      </header>
+     <article>
+       <div class="row">
+         <div class="column" style="background-color:#e6e6e6;">
+      <h2>Education</h2>
+      <p1>
+        <p>มหาวิทยาลัยอัสสัมชัญ<br>คณะนิเทศศาสตร์</p>
+        <p>โรงเรียนเซนต์ดอมินิก</p>
+       </p1>
+      </div>
+      <div class="column" style="background-color:#e6e6e6;"> <h3>
+         Working Experience
+         </h3>
+        <p2>
+              หจก.อิงฟ้าดาวรุ่ง<br>ตำแหน่งผู้จัดการทั้วไป 
+        </p2>
+        </div>
+       <div class="column" style="background-color:#e6e6e6;"><h4>
+         My skills
+         </h4>
+         <p>
+           <p>Illustrator</p>
+        <div class="container">
+        <div class="skills illustrator">30%</div>
+        </div>
+
+        <p>Photoshop</p>
+        <div class="container">
+        <div class="skills photoshop">50%</div>
+        </div>
+
+        <p>Microsoft excel</p>
+        <div class="container">
+        <div class="skills microsoftexcel">30%</div>
+        </div>
+
+        <p>Coding</p>
+        <div class="container">
+        <div class="skills coding">0.02%</div>
+        </div>
+         <br>
+         <br>
+         <br>
+         <br>
+         </p>
+         </div>
+     </article>
+           
+          
+         
+    <aside>
+      <h3>Add Me More Skills</h3>
+        <form>  
+        <input type="text" id="myInput" placeholder="Text here...">
+        <button type="button" onclick="newElement()">Submit</button>
+        <ul class="container float" id="myUL">
+  <li>ทำกับข้าวอร่อย</li>
+  <li>ว่ายน้ำ</li>
+  <li>เตะบอล</li>
+  <li>เล่นเกมได้</li>
+  
+</ul>
+                    
+              
+</form>
+      
+    </aside>
+    </section>
+    <footer>
+   
+        <p><a href="https://ibb.co/LJgprKC"><img src="https://i.ibb.co/LJgprKC/photos-facebook-logo-png-transparent-background-13-300x169.png" alt="photos-facebook-logo-png-transparent-background-13-300x169" border="0" align="middle" class="image2"></a>: voravoot ch</p><button type="button" onclick="myFunction()">Change background color</button>
+  
+      </footer>
+  </body>
+  
+</html>"https://ibb.co/Gkgg6Y3"><img  src="https://i.ibb.co/Gkgg6Y3/55798165-10156054444185373-8390223624962834432-n.jpg" alt="55798165-10156054444185373-8390223624962834432-n" border="0" ></a>
+      <hr class="new1">
+      </header>
+     <article>
+       <div class="row">
+         <div class="column" style="background-color:#e6e6e6;">
+      <h2>Education</h2>
+      <p1>
+        <p>มหาวิทยาลัยอัสสัมชัญ<br>คณะนิเทศศาสตร์</p>
+        <p>โรงเรียนเซนต์ดอมินิก</p>
+
+       
+       </p1>
+      </div>
+      <div class="column" style="background-color:#e6e6e6;"> <h3>
+         Working Experience
+         </h3>
+        <p2>
+              หจก.อิงฟ้าดาวรุ่ง<br>ตำแหน่งผู้จัดการทั้วไป 
+        </p2>
+        </div>
+       <div class="column" style="background-color:#e6e6e6;"><h4>
+         My skills
+         </h4>
+         <p>
+           <p>Illustrator</p>
+<div class="container">
+  <div class="skills illustrator">30%</div>
+</div>
+
+<p>Photoshop</p>
+<div class="container">
+  <div class="skills photoshop">50%</div>
+</div>
+
+<p>Microsoft excel</p>
+<div class="container">
+  <div class="skills microsoftexcel">30%</div>
+</div>
+
+<p>Coding</p>
+<div class="container">
+  <div class="skills coding">0.02%</div>
+</div>
+         </p>
+         </div>
+     </article>
+           
+          
+         
+    <aside>
+      <h3>Add Me More Skills</h3>
+      <form>  
+  <input type="text" id="myInput" placeholder="Text here...">
+  <button type="button" onclick="newElement()">Submit</button>
+<ul class="container float" id="myUL">
+  <li>ทำกับข้าวอร่อย</li>
+  <li>ว่ายน้ำ</li>
+  <li>เตะบอล</li>
+  <li>เล่นเกมได้</li>
+  
+</ul>
+                    
+              
+</form>
+
+      
+    </aside>
+    </section>
+   
+    
+  </body>
+</html>
